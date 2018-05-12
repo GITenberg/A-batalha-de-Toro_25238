@@ -1,0 +1,29 @@
+_repo: A-batalha-de-Toro_25238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barata, António Francisco
+    alias: Barata, Antonio Francisco
+    birthdate: 1836
+    deathdate: 1910
+    gutenberg_agent_id: '31173'
+    url: http://www.gutenberg.org/2009/agents/31173
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25238'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Toro, Battle of, 1476'
+- !lcsh 'Portugal -- History -- Alfonso V, 1438-1481'
+title: A batalha de Toro
+url: http://www.gutenberg.org/ebooks/25238

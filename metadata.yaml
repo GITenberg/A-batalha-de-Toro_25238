@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31173'
     url: http://www.gutenberg.org/2009/agents/31173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25238#A-batalha-de-Toro
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2008-04-29'
 gutenberg_type: Text
